@@ -10,11 +10,11 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="530px" height="auto"/>
 
 
-- 🔭 I’m currently working on **Web APIs**
+- 🔭 I’m currently working on **Web APIs.**
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
-- 🤝 I’m looking for help with machine learning and AI.
+- 🤝 I’m looking to get deep into **Machine learning and AI.**
 
 - 💬 Ask me about **CSS, Javascript and React**
 
