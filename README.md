@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Besurye@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/didierganthier/](https://www.linkedin.com/in/didierganthier/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/)
 
 - ⚡ Fun fact **I love listening as well as playing music instruments** 💭
 
