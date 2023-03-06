@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/)
 
-- ⚡ Fun fact **I love listening as well as playing music instruments** 💭
+- ⚡ Fun fact **I love listening as well as playing musical instruments** 💭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,3 +49,5 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Besufekad-HAZ)](https://github.com/ryo-ma/github-profile-trophy)
+
+
