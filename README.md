@@ -5,8 +5,9 @@
 <img src="https://user-images.githubusercontent.com/23375153/223106569-78248135-dd3c-45a4-8d1e-652f7ba67f3e.gif" width="700"/  
 </p>
 <br>
+<hr>
   
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="550px" height="350px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="550px" height="auto"/>
 
 
 - 🔭 I’m currently working on **Web APIs**
