@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web APIs.**
 
-- 🌱 I’m currently learning **TypeScript,Vue.js**
+- 🌱 I’m currently learning **TypeScript,Vue.js.**
 
 - 🤝 I’m looking to get deep into **Machine learning and AI.**
 
@@ -22,9 +22,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/)
 
-- ⚡ Fun fact **I love listening as well as playing musical instruments** 💭
+- ⚡ Fun fact **I have a deep passion for both listening to and playing musical instruments.** 💭
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://codepen.io/Besufekad-HAZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
 <a href="https://twitter.com/BesufekadAlemu7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
