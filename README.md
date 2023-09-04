@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Web APIs.**
 
-- 🌱 I’m currently learning **JavaScript, React, Redux**
+- 🌱 I’m currently learning **TypeScript,Vue.js**
 
 - 🤝 I’m looking to get deep into **Machine learning and AI.**
 
-- 💬 Ask me about **CSS, Javascript and React**
+- 💬 Ask me about **CSS, Javascript, React, Redux and Ruby on Rails(ROR)**.
 
 - 📫 How to reach me **Besurye@gmail.com**
 
