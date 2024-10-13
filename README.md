@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Besurye@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besufekadalemu/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/besufekadalemu/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/besufekadalemu/</a>
 
 - ⚡ Fun fact **I'm deeply passionate about listening to and playing musical instruments.** 💭
 
