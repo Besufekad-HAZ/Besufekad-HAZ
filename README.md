@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web APIs.**
 
-- 🌱 I’m currently learning **TypeScript,Vue.js.**
+- 🌱 I’m currently learning **Next.js,Vue.js.**
 
 - 🤝 I’m looking to get deep into **Machine learning and AI.**
 
@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **Besurye@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besura/](https://www.linkedin.com/in/besufekadalemu/)
 
-- ⚡ Fun fact **I have a deep passion for both listening to and playing musical instruments.** 💭
+- ⚡ Fun fact **I'm deeply passionate about listening to and playing musical instruments.** 💭
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
