@@ -14,7 +14,7 @@
 ### 🎻 Developer & Music Enthusiast
 <img align="right" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="400" />
 
-- 🔭 **Currently working on:** MERN Stack (MongoDB, Express.js, React, Node.js) and Ruby on rails.
+- 🔭 **Currently working on:** MERN Stack (MongoDB, Express.js, React, Node.js) and Ruby on Rails.
 - 🌱 **Learning:** Next.js | Vue.js | Svelte.js
 - 🤝 **Exploring:** Machine Learning & AI
 - 💬 **Ask me about:** CSS, JavaScript, React, Redux, Ruby on Rails, MERN Stack
@@ -94,5 +94,9 @@
 </p>
 
 ---
+
+<p align="center" style="padding: 20px; border: 1px solid #ccc;">  <h3>👀 Visitors Count</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Besufekad-HAZ.Besufekad-HAZ" width="100px" alt="Visitor Count">
+</p>
 
 ⭐ From [Besufekad-HAZ](https://github.com/Besufekad-HAZ)
